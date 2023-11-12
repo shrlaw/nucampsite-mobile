@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "nucampsite",
+    "slug": "nucampsite",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d9a36d56-7af3-40b9-bd96-926d409d0475"
+      }
+    },
+    "android": {
+      "package": "com.shrlaw.nucampsite"
+    }
+  },
+  "android": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/images/adaptive-icon.png",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
